@@ -6,9 +6,6 @@
 npm-debug.log*
 .DS_Store
 
-# Compiled files
-dist
-
 # Dependency directory
 node_modules
 
